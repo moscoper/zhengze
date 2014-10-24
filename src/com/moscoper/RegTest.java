@@ -31,6 +31,6 @@ public class RegTest {
 
 	public static void main(String arg[]) {
 		test();
-		System.out.println("===I am a new new branch3===");
+		System.out.println("===I am a new дьнр new branch3===");
 	}
 }
