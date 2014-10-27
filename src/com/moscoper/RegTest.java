@@ -7,7 +7,7 @@ public class RegTest {
 	static void test() {
 		Pattern pattern = null;
 		Matcher matcher = null;
-
+//nihao
 		// pattern = Pattern.compile("(\\w+\\.)*\\w+@\\w+(\\.\\w+)+");//验证邮箱
 		// pattern = Pattern.compile("^1[358]\\d{9}");//验证手机号
 		// pattern = Pattern.compile("\\d{1,3}(\\.\\d{1,3}){3}");//验证ip
