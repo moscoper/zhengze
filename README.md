@@ -8,3 +8,6 @@ git 使用：
 4. git remote add 别名 url :为远程代码库添加别名
 5. git push 别名 branch :将文件添加到代码库的某个分支
 6. 如果远程代码库里的内容和本地代码库的内容不一致将会报错（Updates were rejected because the remote contains work that you do not have locally.）此时需要先pull(git pull 别名 branch)然后再push
+7. git log :查看历史版本
+8. git push origin new:master:把本地分支上传master
+9. git push origin new:new 新建远程分支
